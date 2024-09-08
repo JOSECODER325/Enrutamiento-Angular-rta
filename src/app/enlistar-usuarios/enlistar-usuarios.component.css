@@ -1,0 +1,32 @@
+
+:host {
+    display: block;
+    padding: 20px;
+  }
+ 
+  .card {
+    border-radius: 10px;
+  }
+ 
+  .card-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+ 
+  .posicion{
+    position: relative;
+    top: 10px; left: 40px;
+  }
+  .card-body {
+    padding: 30px;
+  }
+ 
+  .btn-primary {
+    background-color: #cb3aa0;
+    border: none;
+    padding: 10px 20px;
+  }
+ 
+  .btn-primary:hover {
+    background-color: #c932c2;
+    border-color: #e75ea9;
+  }
